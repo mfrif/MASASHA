@@ -1,0 +1,38 @@
+{
+  "name": "MASASHA",
+  "short_name": "masasha",
+  "start_url": "https://www.masasha.net/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog Sinopsis dan Review Drama Korea, Film Korea, Gaya Hidup dan Inspirasi.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-0o43NM5q74s/X28MJvITEDI/AAAAAAAAAQQ/ZNc9Z5CfYN46IMDHdgGOsfIJ75ilmvXOwCLcBGAsYHQ/s48/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-VvpYZV8aZFQ/X28ML2CPowI/AAAAAAAAAQ4/4QA84vFpbGMUJ20fX52N_ePGCMzxfAdWACLcBGAsYHQ/s72/apple-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-MIu3P_1PW44/X28MKJAchjI/AAAAAAAAAQY/2IubL5CKmjES80Gm9eERfI3csApC0hTRwCLcBGAsYHQ/s96/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-_1hkyDogCAA/X28MKt2-x4I/AAAAAAAAAQk/k-Vfw9JMtuIefAOKC1uVQbp8sErYzk3zgCLcBGAsYHQ/s144/apple-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-2M-DehY8OcE/X28MK_ymykI/AAAAAAAAAQo/WOfYJvfw7QQUr2kar7_sots9YIweCbZRACLcBGAsYHQ/s152/apple-icon-152x152.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-7hcjbWOWzHg/X28MNNfB9fI/AAAAAAAAARE/y0j8osMwApQ4BCzRr7J9QDm2ccm-U3LsACLcBGAsYHQ/s192/apple-icon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-wZ44kF7ijS4/X28MQY_iw9I/AAAAAAAAARg/6--kCbH0oaQDKDzJCND4rNVo7tWgLs0TQCLcBGAsYHQ/s310/ms-icon-310x310.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
